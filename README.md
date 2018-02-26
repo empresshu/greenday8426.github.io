@@ -1,6 +1,6 @@
 # [INTUITIVE BOOK SEARCH](https://greenday8426.github.io/)
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+멀티캠퍼스 6조 빅데이터 웹개발 프로젝트
 
 ## Preview
 
